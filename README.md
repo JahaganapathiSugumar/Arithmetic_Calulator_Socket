@@ -19,3 +19,29 @@ This is a real-time arithmetic calculator application built using **Node.js**, *
 1. Clone this repository:
    ```bash
    git clone https://github.com/username/Arithmetic_Calculator_Socket.git
+
+2. Navigate into the project directory:
+   ```bash
+   cd Arithmetic_Calculator_Socket
+
+3. Install the dependencies:
+   ```bash
+   npm install
+
+## Usage
+
+1. Start the server:
+   ```bash
+   node server.js
+
+2. Open a web browser and go to http://localhost:8080 to access the calculator.
+
+## Project Structure
+
+server.js: Handles server setup, routes, and WebSocket connections.
+public/: Contains static files (HTML, CSS, JavaScript) for the frontend.
+   index.html: Main HTML file with the user interface.
+   script.js: Client-side JavaScript for handling real-time interactions.
+package.json: Project metadata and dependencies.
+
+
