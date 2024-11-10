@@ -38,10 +38,10 @@ This is a real-time arithmetic calculator application built using **Node.js**, *
 
 ## Project Structure
 
--**server.js**: Handles server setup, routes, and WebSocket connections.
--**public/**: Contains static files (HTML, CSS, JavaScript) for the frontend.
-   -**index.html**: Main HTML file with the user interface.
-   -**script.js**: Client-side JavaScript for handling real-time interactions.
--**package.json**: Project metadata and dependencies.
+- **server.js**: Handles server setup, routes, and WebSocket connections.
+- **public/**: Contains static files (HTML, CSS, JavaScript) for the frontend.
+   - **index.html**: Main HTML file with the user interface.
+   - **script.js**: Client-side JavaScript for handling real-time interactions.
+- **package.json**: Project metadata and dependencies.
 
 
