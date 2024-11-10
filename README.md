@@ -1,4 +1,4 @@
-# Arithmetic_Calculator_Socket
+# Socket_Arithmetic_Calculator
 
 This is a real-time arithmetic calculator application built using **Node.js**, **Express**, and **Socket.IO**. The application performs arithmetic operations like addition, subtraction, multiplication, and division, sending the results back to the client in real-time.
 
